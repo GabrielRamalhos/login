@@ -9,7 +9,7 @@ function soma() {
    const campovalor2 = document.querySelector('#valor2')
    const campovalor3 = document.querySelector('#valor2')
    const campovalor4 = document.querySelector('#valor2')
-
+   
    const valor1 = parseInt(campovalor1.value)
    const valor2 = parseInt(campovalor2.value)
    const valor3 = parseInt(campovalor3.value)
