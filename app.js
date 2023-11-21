@@ -1,0 +1,1 @@
+alert('Valide seus gastos')
